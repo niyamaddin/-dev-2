@@ -1,0 +1,80 @@
+.logo{
+    width: 375px;
+    height: 125px;
+    margin:auto;
+
+}
+
+p{
+    padding-left: 38px;
+    height: 5px;
+}
+
+.search{
+    width: 375px;
+    height: 75px;
+    margin: auto;
+    
+}
+
+h5{
+    padding-left: 50px;
+    height: 0px;
+    margin-top: 0px;
+}
+
+#search{
+    width: 275px;
+}
+
+section{
+    padding-left: 8%;
+}
+
+.grey{
+    background-color: rgb(232, 220, 220);
+    margin-top: 0%;
+}
+
+form{
+    padding-left: 40px;
+}
+
+.card1{
+    width: 33%;
+    float: left;
+    background-color: rgb(209, 246, 209);
+    height: 100px;
+}
+.card2{
+    width: 33%;
+    float: left;
+    margin-left: 7px;
+    background-color: rgb(184, 218, 184);
+    height: 100px;
+    
+}
+
+.card3{
+    width: 33%;
+    float: left;
+    margin-left: 7px;
+    background-color: rgb(147, 235, 147);
+    height: 100px;
+}
+
+a{
+    padding-left: 40px;
+}
+
+#card3{
+    padding-left: 100px;
+}
+
+.main{
+    margin-top: 0%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
